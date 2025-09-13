@@ -28,9 +28,9 @@ The main purpose of writing this software was to improve my understanding of Typ
 
 TypeScript (TS):
 
--TypeScript was chosen because it provides static typing, class support, and better tooling compared to plain JavaScript.
+- TypeScript was chosen because it provides static typing, class support, and better tooling compared to plain JavaScript.
 
--It also improves code maintainability and reduces runtime errors.
+- It also improves code maintainability and reduces runtime errors.
 
 ## Libraries
 
