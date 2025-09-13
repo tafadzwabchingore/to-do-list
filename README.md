@@ -11,35 +11,36 @@ The main purpose of writing this software was to improve my understanding of Typ
 # Development Environment
 
 {Describe the tools that you used to develop the software}
-Visual Studio Code (VS Code): The main editor used for writing and debugging the TypeScript code.
 
-Node.js & npm: Node.js provided the runtime environment to execute the code, while npm (Node Package Manager) was used to install dependencies like inquirer.
+- Visual Studio Code (VS Code): The main editor used for writing and debugging the TypeScript code.
 
-TypeScript Compiler (tsc): Used to transpile TypeScript into JavaScript for execution in Node.js.
+- Node.js & npm: Node.js provided the runtime environment to execute the code, while npm (Node Package Manager) was used to install dependencies like inquirer.
 
-Git & GitHub (optional): For version control and project management.
+- TypeScript Compiler (tsc): Used to transpile TypeScript into JavaScript for execution in Node.js.
 
-Command Line / Terminal: Used to run the program and interact with the todo app.
+- Git & GitHub (optional): For version control and project management.
+
+- Command Line / Terminal: Used to run the program and interact with the todo app.
 
 {Describe the programming language that you used and any libraries.}
 
-Programming Language
+## Programming Language
 
 TypeScript (TS):
 
-TypeScript was chosen because it provides static typing, class support, and better tooling compared to plain JavaScript.
+-TypeScript was chosen because it provides static typing, class support, and better tooling compared to plain JavaScript.
 
-It also improves code maintainability and reduces runtime errors.
+-It also improves code maintainability and reduces runtime errors.
 
-Libraries
+## Libraries
 
 Inquirer.js:
 
-A popular Node.js library used to build interactive command-line interfaces (CLI).
+- A popular Node.js library used to build interactive command-line interfaces (CLI).
 
-It allowed us to display menus, prompt users for input, and handle selections (like Add, Update, View, Delete, and Exit).
+- It allowed us to display menus, prompt users for input, and handle selections (like Add, Update, View, Delete, and Exit).
 
-This was crucial for making the Todo app user-friendly in the terminal.
+- This was crucial for making the Todo app user-friendly in the terminal.
 
 # Useful Websites
 
